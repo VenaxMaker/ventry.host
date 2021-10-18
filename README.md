@@ -2,5 +2,5 @@
 A Free File Uploader for all of your Files. ventry.host includes lots of nice features, such as Invisible URL, Emoji URL, Self-Deleting uploads and more.
 
 <br>
-# https://ventry.host/
+ <h1>https://ventry.host/</h1>
 <img src="https://ventry.host/uploads/ventry-banner.png">
